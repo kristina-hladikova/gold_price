@@ -1,2 +1,3 @@
 # gold_price
-simple parsing 
+
+Simple code for retrieving gold price from the web and saving the data to csv file.
